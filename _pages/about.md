@@ -20,12 +20,12 @@ Research Interest
 Education
 ======
 
-## McGill University, Montreal, Canada
+### McGill University, Montreal, Canada
 - **Degree:** Master of Science
 - **Department:** Computer and Electrical Engineering, Electrical Engineering
 - **Duration:** Sep. 2024 - Jun.2026 (Expected)
 
-## Sharif University of Technology, Tehran, Iran
+### Sharif University of Technology, Tehran, Iran
 - **Degree:** Bachelor of Science
 - **Department:** Mathematical Sciences, Computer Science
 - **Duration:** Sep. 2019 – Feb. 2024
