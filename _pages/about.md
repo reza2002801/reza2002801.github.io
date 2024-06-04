@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Reza Alvandi, and I am a 4-year Bachelor of Science student in Computer Science at Sharif University of Technology (SUT).
+I am Reza Alvandi, a master’s student in electrical engineering at McGill University. My interests lie at the intersection of Machine Learning, Statistics, and Optimization. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.
 
 Research Interest
 ======
-I am generally curious about the intersection of Machine Learning, Algorithms, Statistics and Optimization. 
 
-I have worked on:
-- Graph Machine Learning models such as GNN and GraphSage
-- Mouse Opto-Locomotor Motion Analysis
-- Rank Aggregation Optimization
-- Reinforcement Learning for Checker games
-- Variational Auto encoders to generate data
-- Image processing technique in blending images
+- Decentralized stochastic control and Markov decision theory
+- Reinforcement learning for partially observed systems
+- Theoretical Machine learning
