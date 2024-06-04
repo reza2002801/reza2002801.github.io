@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<justify>
-I am Reza Alvandi, a master’s student in electrical engineering at McGill University. My interests lie at the intersection of Machine Learning, Statistics, and Optimization. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.
-</justify>
+
+<div style="text-align: justify"> I am Reza Alvandi, a master’s student in electrical engineering at McGill University. My interests lie at the intersection of Machine Learning, Statistics, and Optimization. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning. </div>
+
 
 <br/>
 
