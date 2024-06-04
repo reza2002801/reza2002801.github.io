@@ -11,7 +11,8 @@ redirect_from:
 I am Reza Alvandi, a master’s student in electrical engineering at McGill University. My interests lie at the intersection of Machine Learning, Statistics, and Optimization. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.
 </justify>
 
-======
+
+
 
 Research Interest
 ======
@@ -24,7 +25,7 @@ Education
 ======
 <ul>
 <li>
-McGill University, Montreal, Canada
+<b>McGill University, Montreal, Canada</b>
 <ul>
 <li>Degree: Master of Science</li>
 <li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
@@ -35,7 +36,7 @@ McGill University, Montreal, Canada
 
 <li>
 
-Sharif University of Technology, Tehran, Iran
+<b>Sharif University of Technology, Tehran, Iran</b>
 <ul>
 <li>Degree: Bachelor of Science</li>
 <li>Department: Mathematical Sciences, Computer Science</li>
