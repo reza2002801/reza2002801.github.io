@@ -23,17 +23,24 @@ Education
 ======
 <ul>
 <li>
-### McGill University, Montreal, Canada
-- **Degree:** Master of Science
-- **Department:** Computer and Electrical Engineering, Electrical Engineering
-- **Duration:** Sep. 2024 - Jun. 2026 (Expected)
+McGill University, Montreal, Canada
+<ul>
+<li>Degree: Master of Science</li>
+<li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
+<li>Duration: Sep. 2024 - Jun. 2026 (Expected)</li>
+</ul>
+
 </li>
 
 <li>
-### Sharif University of Technology, Tehran, Iran
-- **Degree:** Bachelor of Science
-- **Department:** Mathematical Sciences, Computer Science
-- **Duration:** Sep. 2019 – Feb. 2024
+
+Sharif University of Technology, Tehran, Iran
+<ul>
+<li>Degree: Bachelor of Science</li>
+<li>Department: Mathematical Sciences, Computer Science</li>
+<li>Duration: Sep. 2019 – Feb. 2024</li>
+</ul>
+
 </li>
 </ul>  
 
