@@ -45,10 +45,11 @@ Education
 </li>
 </ul>  
 
-# Projects
+# My Projects
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Active Contours for Object Detection</h3>
+    <img src="path_to_image" alt="Active Contours for Object Detection" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Results</a></p>
     <p>Active Contours (Snakes) for object detection. Define an energy functional comprising internal and external
     energies, iteratively minimize the energy function using Dynamic Programming to deform the contour towards the
@@ -57,6 +58,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Adversarial Search Board Game Player</h3>
+    <img src="path_to_image" alt="Adversarial Search Board Game Player" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Detail</a></p>
     <p>Using Minimax with Alpha-Beta Pruning and Heuristic Evaluation Functions to design an agent that can win
     board games.</p>
@@ -64,6 +66,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Autonomous Precision: Deep Q Learning Mastery in Spaceship Simulator Landings</h3>
+    <img src="path_to_image" alt="Autonomous Precision" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Details</a></p>
     <p>I designed a Deep Q Learning algorithm that adeptly lands a spaceship in a simulator, showcasing efficient
     autonomous navigation and control.</p>
@@ -71,6 +74,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Image Blending (Gradient Domain Blending)</h3>
+    <img src="path_to_image" alt="Image Blending" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Results</a></p>
     <p>Using a carefully designed mask to extract pixel values from the first image and image derivatives from the second
     image. Utilized sparse methods to efficiently solve the resulting large-scale linear system, resulting in visually
@@ -79,6 +83,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Vehicle Insurance Simulation</h3>
+    <img src="path_to_image" alt="Vehicle Insurance Simulation" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Detail</a></p>
     <p>Created a simulation model for a vehicle insurance organization, optimizing staffing and queuing to enhance the
     process efficiency. Analyzed event types, service time distributions, and queuing discipline to inform
@@ -87,6 +92,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>TweetGram Social Media in Java</h3>
+    <img src="path_to_image" alt="TweetGram Social Media" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Detail</a></p>
     <p>Designed Java-based social media ‘TweetGram’ (20k+ lines), merging Twitter features, Telegram-like bots, and
     group chats in a server-client setup. Demonstrates extensive coding proficiency.</p>
@@ -94,6 +100,7 @@ Education
 
 <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
     <h3>Cluster System Computation Server in Java</h3>
+    <img src="path_to_image" alt="Cluster System Computation Server" style="max-width: 100%; border-radius: 10px;">
     <p><a href="code_repository_link">Code Repository and Detail</a></p>
     <p>Developed a cluster system to distribute computations across multiple worker servers. Utilized caching for efficient
     task handling, parallel processing, and load distribution through a centralized server, showcasing expertise in
