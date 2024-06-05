@@ -92,7 +92,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="files/Screenshot from 2024-06-05 14-40-10.png" alt="Image Blending (Gradient Domain Blending)">
+        <img src="files/Screenshot from 2024-06-05 14-44-19.png" alt="Image Blending (Gradient Domain Blending)">
     </div>
     <div class="content">
         <div class="title">Image Blending (Gradient Domain Blending)</div>
