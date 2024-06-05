@@ -160,14 +160,17 @@ Education
         padding: 20px;
     }
     .logo {
-        background-color: #f0f0f0;
-        padding: 20px;
+        width: 150px; /* You can adjust the width as needed */
+        height: 150px; /* You can adjust the height as needed */
+        overflow: hidden;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     .logo img {
-        max-height: 60px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
     .content {
         padding: 20px;
