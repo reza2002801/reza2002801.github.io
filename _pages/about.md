@@ -64,6 +64,19 @@ Education
 
 <div class="card">
     <div class="logo">
+        <img src="files/morph (4).gif" alt="Image Morphing">
+    </div>
+    <div class="content">
+        <div class="title">TweetGram Social Media in Java</div>
+        <div class="description">
+            Our Image Morphing project, combines linear algebra concepts and the Delaunay Triangulation algorithm for creating stunning image transitions. Delaunay Triangulation is a fascinating and efficient technique used to transform a set of points into a non-overlapping set of triangles.
+        </div>
+        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="logo">
         <img src="files/connectfour.gif" alt="Adversarial Search Board Game Player">
     </div>
     <div class="content">
@@ -120,19 +133,7 @@ Education
     </div>
 </div>
 
-<div class="card">
-    <div class="logo">
-        <img src="path_to_image" alt="TweetGram Social Media in Java">
-    </div>
-    <div class="content">
-        <div class="title">TweetGram Social Media in Java</div>
-        <div class="description">
-            Designed Java-based social media ‘TweetGram’ (20k+ lines), merging Twitter features, Telegram-like bots, and
-            group chats in a server-client setup. Demonstrates extensive coding proficiency.
-        </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
-    </div>
-</div>
+
 
 <div class="card">
     <div class="logo">
