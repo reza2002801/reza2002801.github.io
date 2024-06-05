@@ -8,43 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I am Reza Alvandi, a master’s student in electrical engineering at McGill University. My interests lie at the intersection of Machine Learning, Statistics, and Optimization. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning. </div>
-
+<div style="text-align: justify; color: #333; font-family: Arial, sans-serif;">
+    <h2 style="color: #008080;">I am Reza Alvandi, a master’s student in electrical engineering at McGill University.</h2>
+    <p>My interests lie at the intersection of <span style="color: #FF6347;">Machine Learning</span>, <span style="color: #4169E1;">Statistics</span>, and <span style="color: #32CD32;">Optimization</span>. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.</p>
+</div>
 
 <br/>
 
-Research Interests
-======
+<div style="color: #333; font-family: Arial, sans-serif;">
+    <h2 style="color: #008080;">Research Interests</h2>
+    <ul>
+        <li style="color: #4169E1;">Decentralized stochastic control and Markov decision theory</li>
+        <li style="color: #32CD32;">Reinforcement learning for partially observed systems</li>
+        <li style="color: #FF6347;">Theoretical Machine learning</li>
+    </ul>
+</div>
 
-- Decentralized stochastic control and Markov decision theory
-- Reinforcement learning for partially observed systems
-- Theoretical Machine learning
+<div style="color: #333; font-family: Arial, sans-serif;">
+    <h2 style="color: #008080;">Education</h2>
+    <ul>
+        <li>
+            <b>McGill University, Montreal, Canada</b>
+            <ul>
+                <li>Degree: Master of Science</li>
+                <li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
+                <li>Duration: Sep. 2024 - Jun. 2026 (Expected)</li>
+            </ul>
+        </li>
 
-Education
-======
-<ul>
-<li>
-<b>McGill University, Montreal, Canada</b>
-<ul>
-<li>Degree: Master of Science</li>
-<li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
-<li>Duration: Sep. 2024 - Jun. 2026 (Expected)</li>
-</ul>
-
-</li>
-
-<li>
-
-<b>Sharif University of Technology, Tehran, Iran</b>
-<ul>
-<li>Degree: Bachelor of Science</li>
-<li>Department: Mathematical Sciences, Computer Science</li>
-<li>Duration: Sep. 2019 – Feb. 2024</li>
-</ul>
-
-</li>
-</ul>  
-
+        <li>
+            <b>Sharif University of Technology, Tehran, Iran</b>
+            <ul>
+                <li>Degree: Bachelor of Science</li>
+                <li>Department: Mathematical Sciences, Computer Science</li>
+                <li>Duration: Sep. 2019 – Feb. 2024</li>
+            </ul>
+        </li>
+    </ul>
+</div>
 # My Projects
 
 <div class="card">
