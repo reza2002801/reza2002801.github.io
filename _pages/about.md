@@ -160,6 +160,7 @@ Education
         padding: 20px;
     }
     .logo {
+        border-radius: 5px;
         width: 250px; /* You can adjust the width as needed */
         height: 250px; /* You can adjust the height as needed */
         overflow: hidden;
