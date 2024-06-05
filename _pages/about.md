@@ -107,7 +107,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Vehicle Insurance Simulation">
+        <img src="files/Screenshot from 2024-06-05 14-53-53.png" alt="Vehicle Insurance Simulation">
     </div>
     <div class="content">
         <div class="title">Vehicle Insurance Simulation</div>
@@ -136,7 +136,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Cluster System Computation Server in Java">
+        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210313225739/UntitledDiagram4.png" alt="Cluster System Computation Server in Java">
     </div>
     <div class="content">
         <div class="title">Cluster System Computation Server in Java</div>
