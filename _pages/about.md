@@ -107,7 +107,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="files/Screenshot from 2024-06-05 14-53-53.png" alt="Vehicle Insurance Simulation">
+        <img src="files/Screenshot from 2024-06-05 14-58-56.png" alt="Vehicle Insurance Simulation">
     </div>
     <div class="content">
         <div class="title">Vehicle Insurance Simulation</div>
@@ -136,7 +136,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210313225739/UntitledDiagram4.png" alt="Cluster System Computation Server in Java">
+        <img src="files/Screenshot from 2024-06-05 15-00-01.png" alt="Cluster System Computation Server in Java">
     </div>
     <div class="content">
         <div class="title">Cluster System Computation Server in Java</div>
@@ -161,7 +161,7 @@ Education
     }
     .logo {
         border-radius: 10px;
-        width: 400px; /* You can adjust the width as needed */
+        width: 250px; /* You can adjust the width as needed */
         height: 250px; /* You can adjust the height as needed */
         overflow: hidden;
         display: flex;
