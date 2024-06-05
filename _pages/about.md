@@ -49,7 +49,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Active Contours for Object Detection">
+        <img src="files/contour-ezgif.com-video-to-gif-converter.gif" alt="Active Contours for Object Detection">
     </div>
     <div class="content">
         <div class="title">Active Contours for Object Detection</div>
