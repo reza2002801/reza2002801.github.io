@@ -45,34 +45,57 @@ Education
 </li>
 </ul>  
 
-# Research Experience
+# Projects
 
-<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); display: flex; margin-bottom: 20px; overflow: hidden;">
-    <div style="background-color: #f0f0f0; padding: 20px; display: flex; align-items: center; justify-content: center;">
-        <img src="optml-logo.png" alt="OPTML Group Logo" style="max-height: 60px;">
-    </div>
-    <div style="padding: 20px;">
-        <div style="color: #555; font-size: 0.9em; margin-bottom: 10px;">Michigan State University, Michigan, United States</div>
-        <div style="font-size: 1.2em; margin-bottom: 10px;">OPTML Group</div>
-        <div style="margin-bottom: 10px;">
-            Explored hyperparameter optimization, dataset pruning, and reweighting at OPTML Group under Prof. Sijia Liu during Summer 2023, leading to a paper submission to ICASSP2024.
-        </div>
-        <div style="background-color: #e0e0e0; border-radius: 5px; color: #333; display: inline-block; padding: 5px 10px; font-size: 0.8em;">SUMMER 2023, NOW</div>
-    </div>
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Active Contours for Object Detection</h3>
+    <p><a href="code_repository_link">Code Repository and Results</a></p>
+    <p>Active Contours (Snakes) for object detection. Define an energy functional comprising internal and external
+    energies, iteratively minimize the energy function using Dynamic Programming to deform the contour towards the
+    object boundaries.</p>
 </div>
 
-<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); display: flex; margin-bottom: 20px; overflow: hidden;">
-    <div style="background-color: #f0f0f0; padding: 20px; display: flex; align-items: center; justify-content: center;">
-        <img src="riml-logo.png" alt="RIML Lab Logo" style="max-height: 60px;">
-    </div>
-    <div style="padding: 20px;">
-        <div style="color: #555; font-size: 0.9em; margin-bottom: 10px;">Sharif University of Technology, Tehran, Iran</div>
-        <div style="font-size: 1.2em; margin-bottom: 10px;">RIML Lab</div>
-        <div style="margin-bottom: 10px;">
-            Studied anomaly and OOD detection, and robustness in these scenarios at RIML Lab under Prof. Rohban since Winter 2022, resulting in papers submitted to AAAI2024, ICASSP2024, and ICLR2024.
-        </div>
-        <div style="background-color: #e0e0e0; border-radius: 5px; color: #333; display: inline-block; padding: 5px 10px; font-size: 0.8em;">WINTER 2022, NOW</div>
-    </div>
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Adversarial Search Board Game Player</h3>
+    <p><a href="code_repository_link">Code Repository and Detail</a></p>
+    <p>Using Minimax with Alpha-Beta Pruning and Heuristic Evaluation Functions to design an agent that can win
+    board games.</p>
 </div>
 
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Autonomous Precision: Deep Q Learning Mastery in Spaceship Simulator Landings</h3>
+    <p><a href="code_repository_link">Code Repository and Details</a></p>
+    <p>I designed a Deep Q Learning algorithm that adeptly lands a spaceship in a simulator, showcasing efficient
+    autonomous navigation and control.</p>
+</div>
 
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Image Blending (Gradient Domain Blending)</h3>
+    <p><a href="code_repository_link">Code Repository and Results</a></p>
+    <p>Using a carefully designed mask to extract pixel values from the first image and image derivatives from the second
+    image. Utilized sparse methods to efficiently solve the resulting large-scale linear system, resulting in visually
+    captivating compositions.</p>
+</div>
+
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Vehicle Insurance Simulation</h3>
+    <p><a href="code_repository_link">Code Repository and Detail</a></p>
+    <p>Created a simulation model for a vehicle insurance organization, optimizing staffing and queuing to enhance the
+    process efficiency. Analyzed event types, service time distributions, and queuing discipline to inform
+    decision-making.</p>
+</div>
+
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>TweetGram Social Media in Java</h3>
+    <p><a href="code_repository_link">Code Repository and Detail</a></p>
+    <p>Designed Java-based social media ‘TweetGram’ (20k+ lines), merging Twitter features, Telegram-like bots, and
+    group chats in a server-client setup. Demonstrates extensive coding proficiency.</p>
+</div>
+
+<div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px; padding: 20px;">
+    <h3>Cluster System Computation Server in Java</h3>
+    <p><a href="code_repository_link">Code Repository and Detail</a></p>
+    <p>Developed a cluster system to distribute computations across multiple worker servers. Utilized caching for efficient
+    task handling, parallel processing, and load distribution through a centralized server, showcasing expertise in
+    distributed computing and optimization.</p>
+</div>
