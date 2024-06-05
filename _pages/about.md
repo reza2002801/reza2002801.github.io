@@ -58,7 +58,7 @@ Education
             energies, iteratively minimize the energy function using Dynamic Programming to deform the contour towards the
             object boundaries.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Results</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/active-contours">Code Repository and Results</a></div>
     </div>
 </div>
 
@@ -71,7 +71,7 @@ Education
         <div class="description">
             Our Image Morphing project, combines linear algebra concepts and the Delaunay Triangulation algorithm for creating stunning image transitions. Delaunay Triangulation is a fascinating and efficient technique used to transform a set of points into a non-overlapping set of triangles.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/ImageMorphing">Code Repository and Detail</a></div>
     </div>
 </div>
 
@@ -85,7 +85,7 @@ Education
             Using Minimax with Alpha-Beta Pruning and Heuristic Evaluation Functions to design an agent that can win
             board games.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/Adversarial-Agent">Code Repository and Detail</a></div>
     </div>
 </div>
 
@@ -99,7 +99,7 @@ Education
             I designed a Deep Q Learning algorithm that adeptly lands a spaceship in a simulator, showcasing efficient
             autonomous navigation and control.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Details</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/Deep-Q-learning">Code Repository and Details</a></div>
     </div>
 </div>
 
@@ -114,7 +114,7 @@ Education
             image. Utilized sparse methods to efficiently solve the resulting large-scale linear system, resulting in visually
             captivating compositions.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Results</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/Gradient-Domain-Blending">Code Repository and Results</a></div>
     </div>
 </div>
 
@@ -129,7 +129,7 @@ Education
             process efficiency. Analyzed event types, service time distributions, and queuing discipline to inform
             decision-making.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/Vehicle-insurance-simulation">Code Repository and Detail</a></div>
     </div>
 </div>
 
@@ -146,7 +146,7 @@ Education
             task handling, parallel processing, and load distribution through a centralized server, showcasing expertise in
             distributed computing and optimization.
         </div>
-        <div class="link"><a href="code_repository_link">Code Repository and Detail</a></div>
+        <div class="link"><a href="https://github.com/reza2002801/Cluster-System">Code Repository and Detail</a></div>
     </div>
 </div>
 
