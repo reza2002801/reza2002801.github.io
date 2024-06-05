@@ -64,7 +64,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Adversarial Search Board Game Player">
+        <img src="files/connectfour.gif" alt="Adversarial Search Board Game Player">
     </div>
     <div class="content">
         <div class="title">Adversarial Search Board Game Player</div>
@@ -78,7 +78,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Autonomous Precision: Deep Q Learning Mastery in Spaceship Simulator Landings">
+        <img src="files/env_run.gif" alt="Autonomous Precision: Deep Q Learning Mastery in Spaceship Simulator Landings">
     </div>
     <div class="content">
         <div class="title">Autonomous Precision: Deep Q Learning Mastery in Spaceship Simulator Landings</div>
@@ -92,7 +92,7 @@ Education
 
 <div class="card">
     <div class="logo">
-        <img src="path_to_image" alt="Image Blending (Gradient Domain Blending)">
+        <img src="files/Screenshot from 2024-06-05 14-40-10.png" alt="Image Blending (Gradient Domain Blending)">
     </div>
     <div class="content">
         <div class="title">Image Blending (Gradient Domain Blending)</div>
@@ -160,7 +160,7 @@ Education
         padding: 20px;
     }
     .logo {
-        border-radius: 5px;
+        border-radius: 10px;
         width: 250px; /* You can adjust the width as needed */
         height: 250px; /* You can adjust the height as needed */
         overflow: hidden;
