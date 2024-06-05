@@ -161,7 +161,7 @@ Education
     }
     .logo {
         border-radius: 10px;
-        width: 250px; /* You can adjust the width as needed */
+        width: 400px; /* You can adjust the width as needed */
         height: 250px; /* You can adjust the height as needed */
         overflow: hidden;
         display: flex;
