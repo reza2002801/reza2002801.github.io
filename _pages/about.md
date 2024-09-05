@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify; color: #333; font-family: Arial, sans-serif;">
-    <h2 style="color: #008080;">I am Reza Alvandi, a master’s student in electrical engineering at McGill University.</h2>
+    <h2 style="color: #008080;">I am Reza Alvandi, a master’s student in electrical and computer engineering.</h2>
     <p>My interests lie at the intersection of <span style="color: #FF6347;">Machine Learning</span>, <span style="color: #4169E1;">Statistics</span>, and <span style="color: #32CD32;">Optimization</span>. Having previously studied computer science, I am also passionate about algorithms and software development. I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.</p>
 </div>
 
