@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify; color: #333; font-family: Arial, sans-serif;">
     <h2 style="color: #008080;">I am Reza Alvandi, a master’s student in electrical engineering at McGill University.</h2>
-    <p>My interests lie at the intersection of <span style="color: #FF6347;">Machine Learning</span>, <span style="color: #4169E1;">Statistics</span>, and <span style="color: #32CD32;">Optimization</span>. Having previously studied computer science, I am also passionate about algorithms and software development. At McGill, I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.</p>
+    <p>My interests lie at the intersection of <span style="color: #FF6347;">Machine Learning</span>, <span style="color: #4169E1;">Statistics</span>, and <span style="color: #32CD32;">Optimization</span>. Having previously studied computer science, I am also passionate about algorithms and software development. I focus on designing intelligent systems with mathematical guarantees, particularly for control tasks, using tools such as game theory and machine learning.</p>
 </div>
 
 <br/>
@@ -27,14 +27,14 @@ redirect_from:
 <div style="color: #333; font-family: Arial, sans-serif;">
     <h2 style="color: #008080;">Education</h2>
     <ul>
-        <li>
+        <!-- <li>
             <b>McGill University, Montreal, Canada</b>
             <ul>
                 <li>Degree: Master of Science</li>
                 <li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
                 <li>Duration: Sep. 2024 - Jun. 2026 (Expected)</li>
             </ul>
-        </li>
+        </li> -->
 
         <li>
             <b>Sharif University of Technology, Tehran, Iran</b>
