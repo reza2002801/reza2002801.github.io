@@ -27,14 +27,14 @@ redirect_from:
 <div style="color: #333; font-family: Arial, sans-serif;">
     <h2 style="color: #008080;">Education</h2>
     <ul>
-        <!-- <li>
+        <li>
             <b>McGill University, Montreal, Canada</b>
             <ul>
                 <li>Degree: Master of Science</li>
                 <li>Department: Computer and Electrical Engineering, Electrical Engineering</li>
-                <li>Duration: Sep. 2024 - Jun. 2026 (Expected)</li>
+                <li>Duration: Jan. 2025 - Dec. 2026 (Expected)</li>
             </ul>
-        </li> -->
+        </li>
 
         <li>
             <b>Sharif University of Technology, Tehran, Iran</b>
