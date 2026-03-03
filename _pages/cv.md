@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-red)](files/Reza_Alvandi_s_Resume.pdf)
+
 # Reza Alvandi
 
 ![Email](https://img.shields.io/badge/Email-rezaalvandi2002801%40gmail.com-blue) [![Github](https://img.shields.io/badge/Github-reza2002801-green)](https://github.com/reza2002801) [![Webpage](https://img.shields.io/badge/Webpage-https%3A%2F%2Freza2002801.github.io%2Findex.html-yellow)](https://reza2002801.github.io/index.html) [![LinkedIn](https://img.shields.io/badge/Linkedin-reza--alvandi-blue)](https://www.linkedin.com/in/reza-alvandi)
