@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-red)](files/Reza_Alvandi_s_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-red)](/files/Reza_Alvandi_s_Resume.pdf)
